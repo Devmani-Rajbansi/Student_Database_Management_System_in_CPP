@@ -1,0 +1,34 @@
+5
+W;10;State;Automation;2.5;2;10:20;12:20
+B;11;Computer;Power;5;4.2.2024;4.2.2024;10:20;12:20
+W;12;ASDT;Embedded;5;5;14:30;16:0
+B;13;Python;Communication;2.5;4.2.2024;4.2.2024;15:30;17:0
+W;15;Power Electronics;Communication;2.5;5;15:30;17:15
+15
+100000;Rajbansi;Devmani;21.7.1995;30 Carl;21648;Stade;Lower Saxony
+100001;Paranjape;Apurva;21.8.1997;31 Carl;21640;Stade;
+100002;Rajbansi;Rudramani;11.3.1993;30 Carl-von;21342;Pune;Lower Pune
+100003;Shah;Divyansh;21.1.1996;31 Eberstadt;21643;Mumbai;
+100004;Iyer;Konar Suresh;2.9.1996;E-15 Mahalaxmi Complex;31267;Pune;Maharastra
+100005;Lampart;Boris;31.3.1995;15 Bickenstrasse;22456;Darmstadt;
+100006;honkala;eelis;15.8.1936;2476 fredrikinkatu;64011;puolanka;central finland
+100007;lehto;sofia;9.11.1962;2462 mechelininkatu;2842;virrat;southern savonia
+100008;Rajbansi;Sita;21.7.1995;Hugelweg 21;22234;Stade;Lower Saxony
+100009;bosgraaf;mia;12.8.1986;1016 willem van noortplein;3664;beesel;utrecht
+100010;morin;elliot;9.5.1960;3721 22nd ave;45850;new glasgow;british columbia
+100011;knight;alexis;5.6.1985;1740 20th ave;57463;tecumseh;british columbia
+100012;wouterse;luca;22.1.1958;4857 twijnstraat;15500;bellingwedde;utrecht
+100013;burke;britney;8.3.1985;6922 mill lane;13357;tralee;wexford
+100014;Mali;Rushikesh;5.9.1997;Weidigweg 16;64297;Darmstadt;Hessen State
+2
+100000;10;WiSe;1.3
+100000;12;SoSe;0.0
+2
+100001;11;WiSe;1.7
+100001;13;SoSe;0.0
+1
+100003;13;SoSe;0.0
+1
+100005;12;WiSe22;2.3
+1
+100008;15;WiSe22;0.0
