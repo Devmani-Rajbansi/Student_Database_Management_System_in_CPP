@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a C++ implementation of a Student Database Management System as part of the APT Lab 3 exercises. The system provides functionalities to manage student and course data, including adding new students and courses, enrolling students in courses, updating student information, and persisting data to and from a file. The project also includes a simple command-line interface to interact with the database.
+This project is a C++ implementation of a Student Database Management System as part of the Advance Programming Technique Lab exercises. The system provides functionalities to manage student and course data, including adding new students and courses, enrolling students in courses, updating student information, and persisting data to and from a file. The project also includes a simple command-line interface to interact with the database.
 
 ## Features
 
